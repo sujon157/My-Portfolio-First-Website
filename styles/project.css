@@ -1,0 +1,47 @@
+.banner {
+    text-align: center;
+
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    height: 800px;
+    max-width: 1300px;
+    min-height: auto;
+    margin: 0 auto;
+
+
+
+}
+
+.banner-section {
+    text-align: center;
+    margin: ;
+    
+}
+
+.wish {
+    text-align: center;
+    font-family: Merriweather;
+font-size: 32px;
+font-weight: 4000;
+line-height: 40px;
+color:whitesmoke;
+padding-top: 150px;
+
+}
+
+.party {
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 75px;
+    font-weight: 850;
+    /* line-height: 95px; */
+    padding: -100px  344px -100px 344px;
+    text-align: center;
+    margin-bottom: 750px;
+
+
+
+
+
+}
